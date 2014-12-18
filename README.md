@@ -1,2 +1,2 @@
-Algoritma_Eski_Sorular_ve_-z-mleri
+Algoritma_Eski_Sorular_ve_Çözümleri
 ==================================
