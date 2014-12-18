@@ -4,9 +4,9 @@ Algoritma_Eski_Sorular_ve_Çözümleri
 <h5>Algoritma ve Programlama Dersi<h5> 
 Necdet hocanın bu seneden önceki yılların çıkmış soruları ve çözümlerini içeren bir döküman
 
-SORU 1) 1000 ’nin basamak değerleri toplamını bulan bir python kodu yazınız. 
+SORU 1) 2^1000 ’nin basamak değerleri toplamını bulan bir python kodu yazınız. 
 
-İpucu:   Örneğin   2 15 ’in   değeri   32768   olduğundan   soru   1000   yerine   15   için   sorulsaydı  
+İpucu:   Örneğin   2^15 ’in   değeri   32768   olduğundan   soru   1000   yerine   15   için   sorulsaydı  
 cevap 3 + 2 + 7 + 6 + 8 = 26 olurdu. 
 
 Soru 2) Eğer bir sayı kadar nokta kullanılarak bir üçgen oluşturulabiliyorsa o sayıya 
@@ -23,7 +23,7 @@ kullanabilirsiniz.
 Soru 4) Sadece çift Fibonacci sayılarını toplayarak 1000'i geçmeye çalışıyorsunuz. En son kaçıncı 
 Fibonacci sayısı bu diziye dahil olacaktır?
 
-Soru 5) a < b < c  olmak üzere  a 2 + b 2 = c 2  olan tam sayılara Pisagor üçlüsü denir.  a + b + c = 1 000
+Soru 5) a < b < c  olmak üzere  a^2 + b^2 = c^2  olan tam sayılara Pisagor üçlüsü denir.  a + b + c = 1 000
 olacak şekilde tek bir Pisagor üçlüsü vardır. Onu bulmanız istenmektedir. 
 
 Soru 6) Elinizde 1, 2, 5, 10, 25 ve 50 kuruşluk madeni paralarınız olsun. Bu paraları kullanarak 
@@ -46,7 +46,7 @@ Soru 11) 100!’in rakamları toplamını bulunuz.
       
       örnek: 10!= 3628800 olduğundan rakamları toplamı 27’dir. 
       
-Soru 12) 1­20 arası tüm sayılara kalansız bölünebilen en küçük tam sayıyı bulunuz. 
+Soru 12) 1-20 arası tüm sayılara kalansız bölünebilen en küçük tam sayıyı bulunuz. 
 
 Soru 13) Aşağıdaki program ne çıktı verir? 
 
