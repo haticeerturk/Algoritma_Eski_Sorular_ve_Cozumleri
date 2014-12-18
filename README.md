@@ -13,7 +13,7 @@ Soru 2) Eğer bir sayı kadar nokta kullanılarak bir üçgen oluşturulabiliyor
 üçgen sayı denmektedir. İlk altı üçgen sayı (1,3,6,10,15,21) aşağıda gösterilmektedir. Buna 
 göre kullanıcıdan okuduğu sayının bir üçgen sayı olup olmadığını belirleyen bir python 
 programı yazınız. 
-<img src="http://i.hizliresim.com/12yzzp.png" height="330"width="300"/>
+<img src="http://i.hizliresim.com/12yzzp.png" height="300"width="300"/>
 
 Soru 3) 10 elemanlı ve elamanları tekrar edebilen biri dizinin elemanlarını 
 tekrarsız bir şekilde sıralayan algoritmayı yazınız. İstediğiniz sıralama algoritmasını 
