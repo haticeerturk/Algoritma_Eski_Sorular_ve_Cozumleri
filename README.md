@@ -43,6 +43,7 @@ Soru 9) 10001’inci asal sayıyı bulunuz.
 Soru 10) 2 milyondan daha küçük tüm asal sayıların toplamını bulunuz. 
 
 Soru 11) 100!’in rakamları toplamını bulunuz.  
+      
       örnek: 10!= 3628800 olduğundan rakamları toplamı 27’dir. 
       
 Soru 12) 1­20 arası tüm sayılara kalansız bölünebilen en küçük tam sayıyı bulunuz. 
