@@ -18,7 +18,7 @@ programı yazınız.
 Soru 3) 10 elemanlı ve elamanları tekrar edebilen biri dizinin elemanlarını 
 tekrarsız bir şekilde sıralayan algoritmayı yazınız. İstediğiniz sıralama algoritmasını 
 kullanabilirsiniz. 
-      Örnek: {3,42,1,3,17,1,1,1,10,2} ­> {1,2,3,10,17,42} 
+      Örnek: {3,42,1,3,17,1,1,1,10,2} -> {1,2,3,10,17,42} 
       
 Soru 4) Sadece çift Fibonacci sayılarını toplayarak 1000'i geçmeye çalışıyorsunuz. En son kaçıncı 
 Fibonacci sayısı bu diziye dahil olacaktır?
@@ -82,7 +82,7 @@ Soru 16) Aşağıdaki algoritma ne iş yapmaktadır?
       A2. a,b değerlerini oku; 
       A3. x=a, y=0; 
       A4. Eğer (x>=b) değilse A7'ye git; 
-      A5. x=x­b; 
+      A5. x=x-b; 
       A6. y=y+1; A4'e dön; 
       A7. x ve y’yi yazdır; 
       A8. Dur. 
