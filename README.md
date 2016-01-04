@@ -2,7 +2,7 @@ Algoritma_Eski_Sorular_ve_Çözümleri
 ==================================
 <h4>Çanakkale On Sekiz Mart Üniversitesi Bilgisayar Mühendisliği</h4>
 <h5>Algoritma ve Programlama Dersi<h5> 
-Necdet hocanın bu seneden önceki yılların çıkmış soruları ve çözümlerini içeren bir döküman
+Necdet hocanın önceki yıllarda sorduğu soruları ve çözümlerini içeren bir döküman
 
 SORU 1) 2^1000 ’nin basamak değerleri toplamını bulan bir python kodu yazınız. 
 
@@ -86,3 +86,19 @@ Soru 16) Aşağıdaki algoritma ne iş yapmaktadır?
       A6. y=y+1; A4'e dön; 
       A7. x ve y’yi yazdır; 
       A8. Dur. 
+Soru 17) Aşağıda kuralları tanımlanmış oyunun algoritmasını yazınız.
+      * Kullanıcıdan n sayısını okuyup 1’den n’e kadar sayılar sırayla yazılır.
+      * İlk turda soldan sağa doğru önce ilk sayı, sonra birer atlayarak listenin sonuna kadar diğer sayılar çıkartılsın.            İkinci turda ise aynı işlem sağdan sola doğru tekrarlansın.
+      * Son kalan sayı çıktı olarak verilmelidir.
+      Örnek:
+      Kullanıcıdan girdi olarak 9 okunursa oyun aşağıdaki gibi çalışmalıdır:
+      1 2 3 4 5 6 7 8 9
+      2 4 6 8
+      2 6
+      6
+
+Soru 18) P(n); girdi olarak n alıp çıktı olarak n’den küçük veya eşit asal sayıların sayısını veren bir fonksiyon olsun. Örneğin P(1)=0, P(2)=1 ve P(100)=25 değerindedir. Bu fonksiyonun akış şemasını çiziniz
+
+Soru 19) Yazacağınız python programında random modülünü kullanarak 1 ile 100 arasında rasgele sayılar üretilsin. Rasgele sayı üretmeyi, üretilen sayı 42 olana kadar tekrar edilsin ve kaçıncı tekrarda hedefe ulaşıldığını çıktı olarak versin.
+
+Soru 20) Yazacağınız python kodu kullanıcıdan n değerini okuyup n. Fibonacci sayısının basamak değerlerinin toplamını döndürmelidir. Örneğin girdi olarak 9 alınca onuncu Fibonacci sayısı olan 34’ün basamak değerlerini toplayıp 7 çıktısını vermelidir.
