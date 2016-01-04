@@ -86,16 +86,16 @@ Soru 16) Aşağıdaki algoritma ne iş yapmaktadır?
       A6. y=y+1; A4'e dön; 
       A7. x ve y’yi yazdır; 
       A8. Dur. 
-Soru 17) Aşağıda kuralları tanımlanmış oyunun algoritmasını yazınız.
-      * Kullanıcıdan n sayısını okuyup 1’den n’e kadar sayılar sırayla yazılır.
-      * İlk turda soldan sağa doğru önce ilk sayı, sonra birer atlayarak listenin sonuna kadar diğer sayılar çıkartılsın.            İkinci turda ise aynı işlem sağdan sola doğru tekrarlansın.
-      * Son kalan sayı çıktı olarak verilmelidir.
-      Örnek:
-      Kullanıcıdan girdi olarak 9 okunursa oyun aşağıdaki gibi çalışmalıdır:
-      1 2 3 4 5 6 7 8 9
-      2 4 6 8
-      2 6
-      6
+Soru 17) Aşağıda kuralları tanımlanmış oyunun algoritmasını yazınız.<br/>
+      * Kullanıcıdan n sayısını okuyup 1’den n’e kadar sayılar sırayla yazılır.<br/>
+      * İlk turda soldan sağa doğru önce ilk sayı, sonra birer atlayarak listenin sonuna kadar diğer sayılar çıkartılsın.            İkinci turda ise aynı işlem sağdan sola doğru tekrarlansın.<br/>
+      * Son kalan sayı çıktı olarak verilmelidir.<br/>
+      Örnek:<br/>
+      Kullanıcıdan girdi olarak 9 okunursa oyun aşağıdaki gibi çalışmalıdır:<br/>
+      1 2 3 4 5 6 7 8 9<br/>
+      2 4 6 8<br/>
+      2 6<br/>
+      6<br/>
 
 Soru 18) P(n); girdi olarak n alıp çıktı olarak n’den küçük veya eşit asal sayıların sayısını veren bir fonksiyon olsun. Örneğin P(1)=0, P(2)=1 ve P(100)=25 değerindedir. Bu fonksiyonun akış şemasını çiziniz
 
